@@ -8,7 +8,7 @@ public class CodingTracker
         dataAcess.CreateDatabase();
 
 
-        SeedData.SeedRecords(10);
+        //SeedData.SeedRecords(10);
 
 
         UInterface.MainMenu();
